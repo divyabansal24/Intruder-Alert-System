@@ -15,6 +15,12 @@ This project is an **Intruder Alert System** using an **Arduino** and a **PIR mo
 - **Resistors** (as needed)
 - **Wires and Breadboard**
 
+- ## Circuit Diagram
+![Circuit Diagram](circuit_diagram.png)
+
+## Hardware Setup
+![Hardware Setup](model.png)
+
 ## Setup Instructions
 1. Connect the **PIR sensor** and **LED** to the Arduino as per the circuit diagram.
 2. Upload the provided **Arduino code** to the board.
